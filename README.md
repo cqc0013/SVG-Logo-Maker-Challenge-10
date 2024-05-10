@@ -40,3 +40,7 @@ This project uses Node.js, npm, and jest.
 
 6. To run the application, within the terminal, type the command node index.js.
 
+
+## Live Video Recording
+
+https://watch.screencastify.com/v/7FTyllYeXSlj4w2EIpZn 
